@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projekty/Nauka_Unreal5/Nauka 5.1/Content/StarterContent/Props/MaterialSphere.uasset",
+				"D:/Unreal Projekty/Nauka_Unreal5/Nauka 5.1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Unreal Projekty/Nauka_Unreal5/Nauka 5.1/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"D:/Unreal Projekty/Nauka_Unreal5/Nauka 5.1/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/Unreal Projekty/Nauka_Unreal5/Nauka 5.1/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/Unreal Projekty/Nauka_Unreal5/Nauka 5.1/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"D:/Unreal Projekty/Nauka_Unreal5/Nauka 5.1/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+			]
+		}
+	]
+}
