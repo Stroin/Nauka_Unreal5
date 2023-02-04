@@ -2,3 +2,11 @@
 [0202/140309.690:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0202/140310.207:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0202/140310.207:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0204/143535.461:ERROR:cache_util_win.cc(21)] Unable to move the cache: Odmowa dostêpu. (0x5)
+[0204/143535.462:ERROR:cache_util.cc(139)] Unable to move cache folder D:/Unreal Projekty/Nauka_Unreal5/Nauka 5.1/Saved/webcache_4147\Cache to D:/Unreal Projekty/Nauka_Unreal5/Nauka 5.1/Saved/webcache_4147\old_Cache_000
+[0204/143535.462:ERROR:disk_cache.cc(184)] Unable to create cache
+[0204/143547.948:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0204/155755.700:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0204/155755.700:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0204/155755.861:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0204/155755.861:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
